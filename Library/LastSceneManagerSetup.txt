@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Olympic_Stadium/Olympic Stadium_NoShadow.unity
+  isLoaded: 1
+  isActive: 1

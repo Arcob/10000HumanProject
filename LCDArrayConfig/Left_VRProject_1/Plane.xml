@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlaneConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Center>
+    <x>-3.949725</x>
+    <y>0.000000</y>
+    <z>1.921279</z>
+  </Center>
+  <Forward>
+    <x>-0.866025</x>
+    <y>0.000000</y>
+    <z>0.500000</z>
+  </Forward>
+  <Up>
+    <x>0</x>
+    <y>1</y>
+    <z>0</z>
+  </Up>
+  <RowCount>1</RowCount>
+  <ColumnCount>3</ColumnCount>
+  <RowIndex>0</RowIndex>
+  <ColumnIndex>1</ColumnIndex>
+  <LeftBorder>0</LeftBorder>
+  <RightBorder>0</RightBorder>
+  <TopBorder>0</TopBorder>
+  <BottomBorder>0</BottomBorder>
+  <Width>3.645900</Width>
+  <Height>2.058300</Height>
+</PlaneConfig>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VRProjectSetting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectName>MainProject_2</ProjectName>
+  <GeneratorFileList>
+    <string>LCDArray_Right2/MainProject_2/MainGenerator.xml</string>
+  </GeneratorFileList>
+  <Display>
+    <DisplayID>0</DisplayID>
+    <Viewport>
+      <X>0.3333</X>
+      <Y>0</Y>
+      <Width>0.3333</Width>
+      <Height>1</Height>
+    </Viewport>
+    <DisplayType>LED</DisplayType>
+    <CorrectionFolder>LCDArray_Right2/LCDArray.xml</CorrectionFolder>
+    <DataFormat>LEDArray</DataFormat>
+    <ImageType>LeftOnly</ImageType>
+    <CustomSetting>LCDArray_Right2/MainProject_2/Plane.xml</CustomSetting>
+  </Display>
+</VRProjectSetting>

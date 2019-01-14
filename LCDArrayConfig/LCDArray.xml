@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LEDArrayConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LCDArray>
+    <DataType>RowColumnNormalized</DataType>
+    <Width>3072</Width>
+    <Height>768</Height>
+    <LCDList>
+      <LCD>
+        <FromLCD>
+          <RowIndex>0</RowIndex>
+          <ColumnIndex>0</ColumnIndex>
+          <RowCount>3</RowCount>
+          <ColumnCount>1</ColumnCount>
+          <LeftBorder>0.018</LeftBorder>
+          <RightBorder>0.018</RightBorder>
+          <TopBorder>0.018</TopBorder>
+          <BottomBorder>0.018</BottomBorder>
+          <Width>0.545</Width>
+          <Height>0.324</Height>
+        </FromLCD>
+        <ToLCD>
+          <RowIndex>0</RowIndex>
+          <ColumnIndex>0</ColumnIndex>
+          <RowCount>1</RowCount>
+          <ColumnCount>3</ColumnCount>
+        </ToLCD>
+        <VertexList/>
+        <UVList />
+        <TriangleList />
+      </LCD>
+      <LCD>
+        <FromLCD>
+          <RowIndex>1</RowIndex>
+          <ColumnIndex>0</ColumnIndex>
+          <RowCount>3</RowCount>
+          <ColumnCount>1</ColumnCount>
+          <LeftBorder>0.018</LeftBorder>
+          <RightBorder>0.018</RightBorder>
+          <TopBorder>0.018</TopBorder>
+          <BottomBorder>0.018</BottomBorder>
+          <Width>0.545</Width>
+          <Height>0.324</Height>
+        </FromLCD>
+        <ToLCD>
+          <RowIndex>0</RowIndex>
+          <ColumnIndex>1</ColumnIndex>
+          <RowCount>1</RowCount>
+          <ColumnCount>3</ColumnCount>
+        </ToLCD>
+        <VertexList/>
+        <UVList />
+        <TriangleList />
+      </LCD>
+      <LCD>
+        <FromLCD>
+          <RowIndex>2</RowIndex>
+          <ColumnIndex>0</ColumnIndex>
+          <RowCount>3</RowCount>
+          <ColumnCount>1</ColumnCount>
+          <LeftBorder>0.018</LeftBorder>
+          <RightBorder>0.018</RightBorder>
+          <TopBorder>0.018</TopBorder>
+          <BottomBorder>0.018</BottomBorder>
+          <Width>0.545</Width>
+          <Height>0.324</Height>
+        </FromLCD>
+        <ToLCD>
+          <RowIndex>0</RowIndex>
+          <ColumnIndex>2</ColumnIndex>
+          <RowCount>1</RowCount>
+          <ColumnCount>3</ColumnCount>
+        </ToLCD>
+        <VertexList/>
+        <UVList />
+        <TriangleList />
+      </LCD>
+    </LCDList>
+  </LCDArray>
+</LEDArrayConfig>

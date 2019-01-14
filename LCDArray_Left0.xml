@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VRConfigSelector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EnableMultiDisplay>true</EnableMultiDisplay>
+  <VRManagerFileList>
+    <string>LCDArray_Left0/MainProject_0.xml</string>
+    <string>LCDArray_Left0/MainProject_1.xml</string>
+    <string>LCDArray_Left0/MainProject_2.xml</string>
+  </VRManagerFileList>
+</VRConfigSelector>

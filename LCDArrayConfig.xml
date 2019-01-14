@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VRConfigSelector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EnableMultiDisplay>true</EnableMultiDisplay>
+  <VRManagerFileList>
+    <string>LCDArrayConfig/Left_VRProject_0.xml</string>
+    <string>LCDArrayConfig/Left_VRProject_1.xml</string>
+    <string>LCDArrayConfig/Left_VRProject_2.xml</string>
+    <string>LCDArrayConfig/Mid_VRProject.xml</string>
+    <string>LCDArrayConfig/Mid_VRProject_1.xml</string>
+    <string>LCDArrayConfig/Mid_VRProject_2.xml</string>
+    <string>LCDArrayConfig/Mid_VRProject_3.xml</string>
+    <string>LCDArrayConfig/Mid_VRProject_4.xml</string>
+    <string>LCDArrayConfig/Right_VRProject_0.xml</string>
+    <string>LCDArrayConfig/Right_VRProject_1.xml</string>
+    <string>LCDArrayConfig/Right_VRProject_2.xml</string>
+  </VRManagerFileList>
+</VRConfigSelector>

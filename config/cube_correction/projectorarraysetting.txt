@@ -1,0 +1,4 @@
+1 1
+1024 768
+//cols rows
+//window width height

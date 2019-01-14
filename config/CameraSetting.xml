@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FDUCameraSetting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NearPlane>0.3</NearPlane>
+  <FarPlane>1000</FarPlane>
+  <ExceptCullingMasks>
+  	<ExceptCullingMask>
+  		<layerName>FDULeft</layerName>
+  	</ExceptCullingMask>
+  	<ExceptCullingMask>
+  		<layerName>FDURight</layerName>
+  	</ExceptCullingMask>
+		<ExceptCullingMask>
+  		<layerName>FDUStereo</layerName>
+  	</ExceptCullingMask>
+  </ExceptCullingMasks>
+</FDUCameraSetting>

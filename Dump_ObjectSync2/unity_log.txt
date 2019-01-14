@@ -1,0 +1,62 @@
+## Dump: default
+0: 
+SampleID: OtherTime
+Count: 1211
+TotalDeltaTime: 15670.44
+AverageDeltaTime: 12.94008
+FrameCount: 1212
+AverageDeltaTimePerFrame: 12.9294
+AverageFramePerSecond: 77.34309
+
+1: 
+SampleID: ObjectSyncServerAdaptor.SendState
+Count: 128260
+TotalDeltaTime: 49.5491
+AverageDeltaTime: 0.0003863177
+FrameCount: 1211
+AverageDeltaTimePerFrame: 0.04091586
+AverageFramePerSecond: 24440.4
+
+2: 
+SampleID: UpdateStage
+Count: 1210
+TotalDeltaTime: 15817.99
+AverageDeltaTime: 13.07272
+FrameCount: 1211
+AverageDeltaTimePerFrame: 13.06192
+AverageFramePerSecond: 76.55841
+
+3: 
+SampleID: RenderTime
+Count: 1210
+TotalDeltaTime: 14003.22
+AverageDeltaTime: 11.57291
+FrameCount: 1211
+AverageDeltaTimePerFrame: 11.56335
+AverageFramePerSecond: 86.48012
+
+4: 
+SampleID: ScriptDeltaTime
+Count: 1210
+TotalDeltaTime: 45493.89
+AverageDeltaTime: 37.59826
+FrameCount: 1211
+AverageDeltaTimePerFrame: 37.56721
+AverageFramePerSecond: 26.61896
+
+PacketStatus:
+FrameID: 1
+TotalPacket: 0
+ImmediateACKPacketCount: 0
+DelayPacketCount: 0
+CanLostPacketCount: 0
+NotSendPacketCount: 0
+NACKResendCount: 0
+DroppedPacketCount: 0
+ACKResendCount: 0
+PollSlaveMessageCount: 0
+NACKCount: 0
+ACKCount: 0
+
+PacketSizeStatistics:
+## 
